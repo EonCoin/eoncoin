@@ -1,0 +1,2 @@
+debian/bin/eoncoind usr/bin
+src/eoncoind usr/lib/eoncoin

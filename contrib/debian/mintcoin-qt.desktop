@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=EonCoin
+Comment=EonCoin P2P Cryptocurrency
+Comment[fr]=EonCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=EonCoin, eşten eşe kriptografik sanal para birimi
+Comment[es]=EonCoin, una criptomoneda P2P
+Exec=/usr/bin/eoncoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/eoncoin;
+Categories=Office;
